@@ -1,3 +1,10 @@
+---
+name: kanban
+version: 1.0.0
+description: >-
+  Manage project tasks using a simple file-based Kanban system in markdown. Use when tracking tasks, creating task cards, listing board status (todo, doing, done), or handling task dependencies within a kanban/ directory.
+---
+
 # Kanban Skill
 
 ## Purpose

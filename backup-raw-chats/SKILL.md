@@ -1,10 +1,8 @@
 ---
 name: backup-raw-chats
+version: 1.0.0
 description: >-
-  Archive and package raw chat databases, transcripts, and session files from OpenCode,
-  Claude, Antigravity (AGI / Agy), and Codex directly into compressed ZIP archives.
-  Use this skill whenever the user asks to save, export, or create zip files of raw chats
-  from their AI coding assistants without preprocessing.
+  Archive and package raw chat databases, transcripts, and session files from OpenCode, Claude, Antigravity (AGI / Agy), and Codex directly into compressed ZIP archives. Use this skill whenever the user asks to save, export, or create zip files of raw chats from their AI coding assistants without preprocessing.
 ---
 
 # Backup Raw AI Chats

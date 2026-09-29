@@ -2,6 +2,8 @@
 
 Write complete, evidence-grounded academic paper drafts from a paper configuration, annotated bibliography, structured outline, and argument blueprint.
 
+- **Version**: `1.0.0`
+
 See [`SKILL.md`](./SKILL.md) for full instructions and agent execution protocol.
 
 ---

@@ -1,5 +1,6 @@
 ---
 name: paper-draft-writer
+version: 1.0.0
 description: Write complete, evidence-grounded academic paper drafts from a paper configuration, annotated bibliography, structured outline, and argument blueprint. Use whenever the user asks to draft a scholarly paper or manuscript section by section, assemble a full academic draft with citation placeholders and word-count targets, or revise an anchored paper draft from peer-review feedback.
 ---
 
