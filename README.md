@@ -27,3 +27,10 @@ Personal repository of custom skills for AI coding agents (compatible with the A
 - **Version**: `1.0.0`
 - **Description**: Manages project tasks and workflows using a simple file-based Kanban system in Markdown with dependency tracking (`todo`, `doing`, `done`).
 - **Path**: [`kanban/`](./kanban/)
+
+---
+
+### 4. `research-notebook`
+- **Version**: `1.0.0`
+- **Description**: Preserves investigation evidence, falsifiable hypotheses, experiment attempts, and results across agent sessions in a canonical `HYPOTHESES.md` notebook to prevent repeating already-evaluated approaches.
+- **Path**: [`research-notebook/`](./research-notebook/)
