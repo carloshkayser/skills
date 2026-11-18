@@ -34,3 +34,10 @@ Personal repository of custom skills for AI coding agents (compatible with the A
 - **Version**: `1.0.0`
 - **Description**: Preserves investigation evidence, falsifiable hypotheses, experiment attempts, and results across agent sessions in a canonical `HYPOTHESES.md` notebook to prevent repeating already-evaluated approaches.
 - **Path**: [`research-notebook/`](./research-notebook/)
+
+---
+
+### 5. `experiment-runner`
+- **Version**: `1.0.0`
+- **Description**: Runs experiments reproducibly: requires a clean (committed) working tree before every run, logs the commit hash, command, environment, and results in an append-only `experiments/` log, and links each run to its `research-notebook` hypothesis and attempt.
+- **Path**: [`experiment-runner/`](./experiment-runner/)
