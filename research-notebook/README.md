@@ -7,6 +7,12 @@ Skill para manter um registro persistente de hipóteses, tentativas e resultados
 
 See [`SKILL.md`](./SKILL.md) for full instructions, specification, and agent workflow.
 
+## Install
+
+```bash
+npx skills add https://github.com/carloshkayser/skills --skill research-notebook
+```
+
 ## Arquivos incluídos
 
 ```text

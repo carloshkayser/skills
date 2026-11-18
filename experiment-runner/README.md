@@ -8,6 +8,12 @@ Skill for running experiments reproducibly: code is committed before every run, 
 
 See [`SKILL.md`](./SKILL.md) for the full protocol and agent workflow.
 
+## Install
+
+```bash
+npx skills add https://github.com/carloshkayser/skills --skill experiment-runner
+```
+
 ## Files included
 
 ```text

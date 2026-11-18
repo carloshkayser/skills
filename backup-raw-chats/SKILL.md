@@ -18,7 +18,7 @@ Activate this skill when:
 
 ---
 
-## 🚀 Execution Guide
+## Execution Guide
 
 Run the backup script directly using Python:
 
@@ -41,7 +41,7 @@ python3 <skill-dir>/scripts/backup_raw_chats.py --dry-run
 
 ---
 
-## 📁 Source Locations Discovered & Preserved
+## Source Locations Discovered & Preserved
 
 | Assistant | Storage Path | Archived Raw Content |
 | :--- | :--- | :--- |
@@ -52,7 +52,7 @@ python3 <skill-dir>/scripts/backup_raw_chats.py --dry-run
 
 ---
 
-## 📦 Generated Archive Layout
+## Generated Archive Layout
 
 The script generates timestamped ZIP archives with a built-in `MANIFEST.txt`:
 
@@ -76,7 +76,7 @@ The script generates timestamped ZIP archives with a built-in `MANIFEST.txt`:
 
 ---
 
-## 🔍 Verification Steps
+## Verification Steps
 
 After running the backup script:
 1. Confirm that each requested `.zip` file exists in the destination folder.

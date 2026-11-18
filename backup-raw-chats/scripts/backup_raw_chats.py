@@ -300,7 +300,7 @@ def main():
     out_dir = os.path.abspath(args.output_dir)
 
     print("=================================================================")
-    print(" 📦 AI CHATS RAW BACKUP PIPELINE")
+    print(" AI CHATS RAW BACKUP PIPELINE")
     print(f" Timestamp:  {timestamp}")
     print(f" Output Dir: {out_dir}")
     print(f" Assistants: {', '.join([COLLECTORS[k][0] for k in selected_keys])}")
@@ -368,11 +368,11 @@ def main():
 
     # Print summary
     print("\n=================================================================")
-    print(" ✅ BACKUP COMPLETED SUCCESSFULLY")
+    print(" BACKUP COMPLETED SUCCESSFULLY")
     print("=================================================================")
     for fname, fpath, count, r_size, z_size, dur in created_archives:
         ratio = (1.0 - (z_size / r_size)) * 100.0 if r_size > 0 else 0
-        print(f"📁 {fname}")
+        print(f"{fname}")
         print(f"   Location:    {fpath}")
         print(f"   Files:       {count:,}")
         print(f"   Raw Size:    {format_bytes(r_size)}")
